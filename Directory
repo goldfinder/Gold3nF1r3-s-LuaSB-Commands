@@ -1,1 +1,1 @@
-print("DIR")print("Run !help for more commands.")print("Run !dir for this page again.")print("Run !upd to update the active system")
+print("----")print("DIR")print("Run !help for more commands.")print("Run !dir for this page again.")print("Run !upd to update the active system")print("----")
